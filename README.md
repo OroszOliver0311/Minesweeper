@@ -1,5 +1,5 @@
 Minesweeper project <br />
-Unit test witj Junit <br />
+Unit test with Junit <br />
 Maven project<br />
 
 SOLID principles<br />
